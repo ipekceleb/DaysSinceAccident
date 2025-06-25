@@ -50,14 +50,4 @@ After installing Rainmeter, copy this skin into the `Documents\Rainmeter\Skins` 
 3. Open Rainmeter → Refresh → Load the skin
 
 ---
-
-## 🛑 Note
-
-If your background image includes company logos or sensitive information,  
-**please replace or edit it** before sharing this project publicly.
-
----
-
-## 🛠️ Contributions
-
 This is a personal and educational project — feel free to fork it or modify it to suit your workplace or style.
