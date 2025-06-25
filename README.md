@@ -31,7 +31,16 @@ By using a custom background and clean layout, it supports visual management pra
 - `accident_background.png` – Optional background image used in layout
 
 ---
+## 🖥️ Requirements
 
+This skin requires [Rainmeter](https://www.rainmeter.net/) to be installed on your system.
+
+You can download it here:  
+👉 https://www.rainmeter.net/
+
+After installing Rainmeter, copy this skin into the `Documents\Rainmeter\Skins` directory and refresh Rainmeter.
+
+---
 ## ⚙️ Installation
 
 1. Copy the entire folder to: Documents\Rainmeter\Skins\DaysSinceAccident
